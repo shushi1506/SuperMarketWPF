@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSuperMarket.Views"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="WPFSuperMarket.Views.InventoryActions"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        mc:Ignorable="d"
+        Title="Cập nhật Tồn kho" Height="337" Width="464">
+    <Grid>
+
+        <Label x:Name="label" VerticalAlignment="Top" Margin="10,48,0,0" HorizontalAlignment="Left" Content="Mã số:"/>
+        <TextBox x:Name="txtProductId" Width="108" VerticalAlignment="Top" TextWrapping="Wrap" RenderTransformOrigin="0.478,0.522" Margin="10,70,0,0" IsEnabled="False" IsReadOnly="True" Height="23" HorizontalAlignment="Left" Style="{DynamicResource styleTextBox}"/>
+        <Label x:Name="label_Copy" VerticalAlignment="Top" Margin="230,99,0,0" HorizontalAlignment="Left" Content="Tên Mặt hàng:" IsEnabled="False"/>
+        <dxe:TextEdit x:Name="txtProductName" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="230,126,0,0" IsEnabled="False" IsReadOnly="True" Style="{DynamicResource styleTextEdit}"/>
+        <Label x:Name="label_Copy2" Content="Thời gian tạo:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,48,0,0"/>
+        <TextBox x:Name="txtProductCreateTime" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="148,70,0,0" IsReadOnly="True" IsEnabled="False" Style="{DynamicResource styleTextBox}"/>
+        <Label x:Name="label_Copy3" Content="Tài khoản tạo:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="291,48,0,0" RenderTransformOrigin="0.863,-6.364"/>
+        <TextBox x:Name="txtProductCreatedBy" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="291,70,0,0" IsReadOnly="True" IsEnabled="False" Style="{DynamicResource styleTextBox}"/>
+        <Label x:Name="label_Copy7" Content="Chi tiết:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,153,0,0"/>
+        <dxe:TextEdit x:Name="txtProductDetail" VerticalContentAlignment="Top"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="426" Margin="10,180,0,0" Height="75" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" Style="{DynamicResource styleTextEdit}"/>
+        <Label x:Name="label_Copy4" Content="Mã vạch:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,99,0,0" IsEnabled="False"/>
+        <dxe:TextEdit x:Name="txtProductBarCode" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,126,0,0" IsEnabled="False" IsReadOnly="True" Style="{DynamicResource styleTextEdit}"/>
+        <Label Content="Số lượng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <dxe:TextEdit x:Name="txtProductQuantity" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Margin="75,10,0,0" Style="{DynamicResource styleTextEdit}"/>
+        <Label Content="Ngày Hết hạn:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="240,10,0,0" RenderTransformOrigin="1.053,0.455"/>
+        <dxe:DateEdit x:Name="dateExpiredTime" HorizontalAlignment="Left" Margin="321,10,0,0" VerticalAlignment="Top" Width="115" DateTime="12/24/2016 00:00:00" MaskCulture="en-US" Mask="dd/MM/yyyy" IsEnabled="False" />
+        <Button x:Name="btnUpdate" Content="CẬP NHẬT" HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top" Width="100"
+                dx:ThemeManager.ThemeName="None" Background="#FF00A65A" Foreground="White" Height="26" Click="btnUpdate_Click"/>
+        <Button x:Name="btnIn" Content="NHẬP KHO" HorizontalAlignment="Left" Margin="120,260,0,0" VerticalAlignment="Top" Width="100"
+            dx:ThemeManager.ThemeName="None" Background="#3c8dbc" Foreground="White" Height="26" Click="btnIn_Click"/>
+        <Button x:Name="btnOut" Content="XUẤT KHO" HorizontalAlignment="Left" Margin="230,260,0,0" VerticalAlignment="Top" Width="100"
+            dx:ThemeManager.ThemeName="None" Background="#f39c12" Foreground="White" Height="26" Click="btnOut_Click"/>
+        <Button x:Name="btnCancel" Content="Hủy" HorizontalAlignment="Left" Margin="350,260,0,0" VerticalAlignment="Top" Width="86" Height="26" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

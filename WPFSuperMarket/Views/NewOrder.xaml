@@ -1,0 +1,293 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPFSuperMarket.Views"
+   
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+            xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+            xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+            xmlns:dxbh="http://schemas.devexpress.com/winfx/2008/xaml/bars/internal"
+            xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+            xmlns:dxd="http://schemas.devexpress.com/winfx/2008/xaml/docking"
+            xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" 
+    xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" 
+    x:Class="WPFSuperMarket.Views.NewOrder"
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="1300" Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <local:imageConvertAcount x:Key="imageConvertAcount" ></local:imageConvertAcount>
+        <local:imageConvert x:Key="imageConverter"></local:imageConvert>
+        <DataTemplate x:Key="DetailCoreTemplateProduct">
+            <dx:MeasurePixelSnapper MaxWidth="500" MaxHeight="300">
+                <Grid HorizontalAlignment="Left" Height="100"  VerticalAlignment="Top" Width="637">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="102*"/>
+                        <ColumnDefinition Width="235*"/>
+                    </Grid.ColumnDefinitions>
+                    <dxe:ImageEdit Source="{Binding Path=Row.Picture,Converter={StaticResource imageConverter }}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Grid.RowSpan="3" >
+                    </dxe:ImageEdit>
+                    <Label x:Name="label" Content="Tên Mặt Hàng:" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="0" VerticalAlignment="Stretch" />
+                    <Label x:Name="label1" Content="Giá Thành:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Stretch"/>
+                    <Label x:Name="label2" Content="Số Lượng:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch"/>
+                    <TextBlock Style="{StaticResource textBlockstyle}" Grid.Column="2"  FontSize="16" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="{Binding Row.Name}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Row.Price}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Row.Quantity}" VerticalAlignment="Center"/>
+                </Grid>
+            </dx:MeasurePixelSnapper>
+        </DataTemplate>
+        <DataTemplate x:Key="DetailCoreTemplateOrderLineToday">
+            <dx:MeasurePixelSnapper MaxWidth="500" MaxHeight="300">
+                <Grid HorizontalAlignment="Left" Height="100"  VerticalAlignment="Top" Width="637">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="102*"/>
+                        <ColumnDefinition Width="235*"/>
+                    </Grid.ColumnDefinitions>
+                    <dxe:ImageEdit Source="{Binding Path=Row.PictureProduct,Converter={StaticResource imageConverter }}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Grid.RowSpan="3" >
+                    </dxe:ImageEdit>
+                    <Label x:Name="label" Content="Tên Mặt Hàng:" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="0" VerticalAlignment="Stretch" />
+                    <Label x:Name="label1" Content="Giá Thành:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Stretch"/>
+                    <Label x:Name="label2" Content="Số Lượng:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch"/>
+                    <TextBlock Style="{StaticResource textBlockstyle}" Grid.Column="2"  FontSize="16" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="{Binding Row.Name}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Row.Price}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Row.Quantity}" VerticalAlignment="Center"/>
+                </Grid>
+            </dx:MeasurePixelSnapper>
+        </DataTemplate>
+        <DataTemplate x:Key="DetailCoreTemplateOrderline">
+            <dx:MeasurePixelSnapper MaxWidth="500" MaxHeight="300">
+                <Grid HorizontalAlignment="Left" Height="100"  VerticalAlignment="Top" Width="637">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="102*"/>
+                        <ColumnDefinition Width="235*"/>
+                    </Grid.ColumnDefinitions>
+                    <dxe:ImageEdit Source="{Binding Path=Row.PictureProduct,Converter={StaticResource imageConverter }}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Grid.RowSpan="3" >
+                    </dxe:ImageEdit>
+                    <Label x:Name="label" Content="Tên Mặt Hàng:" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="0" VerticalAlignment="Stretch" />
+                    <Label x:Name="label1" Content="Số Lượng:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Stretch"/>
+                    <Label x:Name="label2" Content="Tổng Tiền:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch"/>
+                    <TextBlock Style="{StaticResource textBlockstyle}" Grid.Column="2"  FontSize="16" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="{Binding Row.ProductName}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Row.Quantity}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Row.TotalPrice}" VerticalAlignment="Center"/>
+                </Grid>
+            </dx:MeasurePixelSnapper>
+        </DataTemplate>
+        <DataTemplate x:Key="DetailCoreTemplateOrder">
+            <dx:MeasurePixelSnapper MaxWidth="500" MaxHeight="300">
+                <Grid HorizontalAlignment="Left" Height="100"  VerticalAlignment="Top" Width="637">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="102*"/>
+                        <ColumnDefinition Width="235*"/>
+                    </Grid.ColumnDefinitions>
+                    <dxe:ImageEdit Source="{Binding Path=Row.PictureAccount,Converter={StaticResource imageConvertAcount }}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Grid.RowSpan="3" >
+                    </dxe:ImageEdit>
+                    <Label x:Name="label" Content="Tài Khoản Tạo:" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="0" VerticalAlignment="Stretch" />
+                    <Label x:Name="label1" Content="Thời Gian Tạo:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Stretch"/>
+                    <Label x:Name="label2" Content="Thành Tiền:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch"/>
+                    <TextBlock Style="{StaticResource textBlockstyle}" Grid.Column="2"  FontSize="16" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="{Binding Row.CreatedBy}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Row.CreateTime}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Row.PaidPrice}" VerticalAlignment="Center"/>
+                </Grid>
+            </dx:MeasurePixelSnapper>
+        </DataTemplate>
+    </UserControl.Resources>
+    <dxd:LayoutGroup Orientation="Horizontal">
+        <dxd:LayoutGroup ItemWidth="3*" Orientation="Vertical">
+            <dxd:LayoutGroup ItemHeight="5*">
+                <dxd:LayoutPanel AllowClose="False" Caption="Danh mục Hóa đơn Trong ngày">
+                    <dxg:GridControl x:Name="gridControlOrdersToday" AutoGenerateColumns="AddNew" ShowBorder="False" SelectionMode="Row" MouseDown="gridControlOrdersToday_MouseDown" SelectedItemChanged="gridControlOrdersToday_SelectedItemChanged">
+                        <dxg:GridControl.View>
+                            <dxg:TableView ShowGroupPanel="False">
+                                <dxg:TableView.RowCellMenuCustomizations>
+                                    <dxb:BarButtonItem x:Name="printOrderContextMenu" Content="In Hóa đơn  " 
+                                        ItemClick="printOrderContextMenu_ItemClick" Glyph="{dx:DXImage Image=Print_16x16.png}"/>
+                                </dxg:TableView.RowCellMenuCustomizations>
+                                <dxg:TableView.RowStyle>
+                                    <Style TargetType="dxg:RowControl">
+                                        <Setter Property="ToolTipService.ToolTip">
+                                            <Setter.Value>
+                                                <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplateOrder}">
+                                                    
+                                                </ContentControl>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </dxg:TableView.RowStyle>
+                            </dxg:TableView>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                </dxd:LayoutPanel>
+            </dxd:LayoutGroup>
+            <dxd:LayoutGroup ItemHeight="5*">
+                <dxd:LayoutPanel AllowClose="False" Caption="Chi tiết Hóa đơn - Trong ngày">
+                    <dxg:GridControl x:Name="gridControlOrderLinesToday" AutoGenerateColumns="AddNew" ShowBorder="False" SelectionMode="Row" SelectedItemChanged="gridControlOrderLinesToday_SelectedItemChanged">
+                        <dxg:GridControl.View>
+                            <dxg:TableView ShowGroupPanel="False">
+                                <dxg:TableView.RowStyle>
+                                    <Style TargetType="dxg:RowControl">
+                                        <Setter Property="ToolTipService.ToolTip">
+                                            <Setter.Value>
+                                                <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplateOrderline}" />
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </dxg:TableView.RowStyle>
+                            </dxg:TableView>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                </dxd:LayoutPanel>
+            </dxd:LayoutGroup>
+        </dxd:LayoutGroup>
+        <dxd:LayoutGroup Orientation="Vertical" ItemWidth="7*">
+            <dxd:LayoutGroup Orientation="Horizontal" ItemHeight="2*">
+                <dxd:LayoutPanel AllowClose="False" Caption="Dòng Hóa đơn" ItemWidth="1*">
+                    <dxg:GridControl x:Name="gridControlOrderLines" AutoGenerateColumns="AddNew" ShowBorder="False" SelectionMode="Row" MouseDown="gridControlOrderLines_MouseDown" SelectedItemChanged="gridControlOrderLines_SelectedItemChanged">
+                        <dxg:GridControl.View>
+                            <dxg:TableView ShowGroupPanel="False">
+                                <dxg:TableView.RowStyle>
+                                    <Style TargetType="dxg:RowControl">
+                                        <Setter Property="ToolTipService.ToolTip">
+                                            <Setter.Value>
+                                                <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplateOrderline}" />
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </dxg:TableView.RowStyle>
+                            </dxg:TableView>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                </dxd:LayoutPanel>
+                <dxd:LayoutPanel AllowClose="False" Caption="Danh sách Mặt hàng" ItemWidth="1*">
+                    <Grid>
+                        
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="6*"/>
+                        </Grid.RowDefinitions>
+                        <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtSearch" HorizontalAlignment="Left" VerticalAlignment="Top" Width="179" Margin="10,4,0,0" Height="23" KeyDown="txtSearch_KeyDown">
+                        </dxe:TextEdit>
+                        <Button x:Name="btnSearch" Content="Tìm kiếm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="194,4,0,0" Height="23" Click="btnSearch_Click"/>
+                        <Button x:Name="btnClearSearch" Content="Tải lại" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Margin="274,4,0,0" Height="23" RenderTransformOrigin="1.667,0.696" Click="btnClearSearch_Click"/>
+
+                        <dxg:GridControl Grid.Row="1"  x:Name="gridControlProducts" AutoGenerateColumns="AddNew" ShowBorder="False" SelectionMode="Row" MouseDown="gridControlProducts_MouseDown" SelectedItemChanged="gridControlProducts_SelectedItemChanged">
+                            <dxg:GridControl.View>
+                                <dxg:TableView ShowGroupPanel="False">
+                                    <dxg:TableView.RowStyle>
+                                        <Style TargetType="dxg:RowControl">
+                                            <Setter Property="ToolTipService.ToolTip">
+                                                <Setter.Value>
+                                                    <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplateProduct}" />
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </dxg:TableView.RowStyle>
+                                </dxg:TableView>
+                            </dxg:GridControl.View>
+                        </dxg:GridControl>
+                    </Grid>
+
+                </dxd:LayoutPanel>
+            </dxd:LayoutGroup>
+            <dxd:LayoutGroup Orientation="Horizontal" ItemHeight="3*">
+                <dxd:LayoutPanel x:Name="lpNewOrder" AllowClose="False" Caption="Chi tiết Hóa đơn" ItemWidth="5*" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="4*"/>
+                            <RowDefinition Height="4*"/>
+                        </Grid.RowDefinitions>
+                        <dxlc:GroupBox Grid.Row="1" Header="Thông tin Khách hàng" >
+                            <Grid Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+                                <Label Style="{StaticResource styleLabel}" x:Name="label_Copy50" Content="Tên Khách:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderGuestName" EditValue="Khách lẻ" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="0,22,0,0"/>
+                                <Label Style="{StaticResource styleLabel}" x:Name="label_Copy6" Content="Số điện thoại:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="219,0,-75,0"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderGuestPhone" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="219,22,-219,0"/>
+                                <Label Style="{StaticResource styleLabel}" x:Name="label_Copy8" Content="Thư điện tử:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,54,0,-32"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderGuestEmail" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="0,76,0,-54"/>
+                                <Label Style="{StaticResource styleLabel}" x:Name="label_Copy9" Content="Địa chỉ:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="219,54,-75,-32"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderGuestAddress" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="219,76,-202,-54"/>
+                            </Grid>
+                        </dxlc:GroupBox>
+                        <dxlc:GroupBox Grid.Row="2" Header="Thông tin Hóa đơn" >
+                            <Grid Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="520" Height="110">
+                                <Label Style="{StaticResource styleLabel}" Content="Tổng tiền:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderTotalPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="0,22,0,0" IsReadOnly="True"/>
+                                <Label Style="{StaticResource styleLabel}" Content="Thuế VAT:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="169,0,-14,0"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderVATPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="169,22,-112,0" IsReadOnly="True"/>
+                                <Label Style="{StaticResource styleLabel}" Content="Khuyến mại:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,54,0,-32"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderDiscountPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="0,76,0,-54" EditValueChanged="txtOrderDiscountPrice_EditValueChanged"/>
+                                <Label Style="{StaticResource styleLabel}" Content="Thanh toán:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="169,54,-25,-32"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderPaidPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="169,76,-112,-54" IsReadOnly="True"/>
+                                <Label Style="{StaticResource styleLabel}" x:Name="label_Copy10" Content="Ghi chú:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="339,0,0,0"/>
+                                <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtOrderDetail" VerticalContentAlignment="Top"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="175" Margin="339,27,-78,-18" Height="71" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap"/>
+                            </Grid>
+                        </dxlc:GroupBox>
+                        <Button x:Name="btnNewOrder" Content="LẬP HÓA ĐƠN" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Width="128" Click="btNewOrder_Click" Height="27" Padding="5,0,5,0" dx:ThemeManager.ThemeName="None" Background="#FF00A65A" Foreground="White" FontWeight="Bold"/>
+                        <Button x:Name="btnClearOrder" Content="LÀM LẠI" HorizontalAlignment="Left" Margin="150,6,0,0" VerticalAlignment="Top" Width="91" Click="btnClearOrder_Click" Height="27" Padding="5,0,5,0" dx:ThemeManager.ThemeName="None" Foreground="Black" FontWeight="Bold"/>
+                    </Grid>
+                </dxd:LayoutPanel>
+                <dxd:LayoutPanel x:Name="lpInfoProduct" AllowClose="False" Caption="Thông tin Mặt hàng" ScrollViewer.CanContentScroll="True" ItemWidth="3*">
+                    <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        <Grid Width="350">
+                            <Label Style="{StaticResource styleLabel}" x:Name="label" Content="Mã số:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,39,0,0"/>
+                            <TextBox x:Name="txtProductId" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="10,61,0,0" IsReadOnly="True" RenderTransformOrigin="0.478,0.522" IsEnabled="False"/>
+                            <Label Style="{StaticResource styleLabel}" x:Name="label_Copy" Content="Tên Mặt hàng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,92,0,0"/>
+                            <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtProductName" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="11,117,0,0" Height="22" RenderTransformOrigin="0.5,0.5" IsReadOnly="True">
+                                <dxe:TextEdit.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform Angle="-0.016"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </dxe:TextEdit.RenderTransform>
+                            </dxe:TextEdit>
+                            <Button x:Name="btnAddProduct" Content="Thêm Vào Hóa đơn" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="150" Click="btnAddProduct_Click" Height="22" Padding="5,0,5,0" dx:ThemeManager.ThemeName="None" Background="#FF00A65A" Foreground="White"/>
+                            <Button x:Name="btnRemoveProduct" Content="Xóa khỏi Hóa đơn" HorizontalAlignment="Left" Margin="176,10,0,0" VerticalAlignment="Top" Width="150" Click="btnRemoveProduct_Click" Height="22" Padding="5,0,5,0" dx:ThemeManager.ThemeName="None" Background="#dd4b39" Foreground="White"/>
+
+                            <Label Style="{StaticResource styleLabel}" x:Name="label_Copy4" Content="Mã vạch:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="176,39,0,0" Width="63" Height="22"/>
+                            <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtProductBarCode" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="176,61,0,0" IsReadOnly="True" Height="23"/>
+                            <Label Style="{StaticResource styleLabel}" x:Name="label_Copy5" Content="Giá tiền:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,149,0,0" Width="61"/>
+                            <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtProductPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="11,174,0,0" IsReadOnly="True"/>
+                            <dxe:ImageEdit x:Name="imageProductPicture" HorizontalAlignment="Left" Margin="176,109,0,0" VerticalAlignment="Top" Width="150" Source="pack://application:,,,/WPFSuperMarket;component/Images/Product-256.png" Height="150"/>
+                            <Label Style="{StaticResource styleLabel}" Content="Số lượng:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,209,0,0" Width="61"/>
+                            <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtProductQuantity" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="11,235,0,0" EditValueChanged="txtProductQuantity_EditValueChanged"/>
+                            <Label Style="{StaticResource styleLabel}" Content="Thành tiền:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,267,0,0" Width="61"/>
+                            <dxe:TextEdit Style="{StaticResource styleTextEdit}" x:Name="txtProductTotalPrice" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Margin="11,293,0,0" IsReadOnly="True"/>
+                            <Button x:Name="btnSaveChangeOrderLineProduct" Content="Lưu thay đổi" HorizontalAlignment="Left" Margin="176,293,0,0" VerticalAlignment="Top" Width="150" Click="btnSaveChangeOrderLineProduct_Click" Height="22" Padding="5,0,5,0" dx:ThemeManager.ThemeName="None" Background="#FF00A65A" Foreground="White"/>
+
+                        </Grid>
+
+                    </ScrollViewer>
+                </dxd:LayoutPanel>
+            </dxd:LayoutGroup>
+
+        </dxd:LayoutGroup>
+    </dxd:LayoutGroup>
+</UserControl>

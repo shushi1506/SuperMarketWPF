@@ -1,0 +1,217 @@
+﻿<UserControl x:Class="WPFSuperMarket.Views.Account"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPFSuperMarket.Views"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             xmlns:dxr="http://schemas.devexpress.com/winfx/2008/xaml/ribbon"
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
+             xmlns:dxbh="http://schemas.devexpress.com/winfx/2008/xaml/bars/internal"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+             xmlns:dxd="http://schemas.devexpress.com/winfx/2008/xaml/docking"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+              xmlns:Market="clr-namespace:WPFSuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="1100" Loaded="UserControl_Loaded">
+   
+    <UserControl.Resources>
+        <local:imageConvertAcount x:Key="imageConvertAcount" ></local:imageConvertAcount>
+        <DataTemplate x:Key="DetailCoreTemplate">
+            <dx:MeasurePixelSnapper MaxWidth="500" MaxHeight="300">
+                <Grid HorizontalAlignment="Left" Height="100"  VerticalAlignment="Top" Width="637">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100*"/>
+                        <ColumnDefinition Width="102*"/>
+                        <ColumnDefinition Width="235*"/>
+                    </Grid.ColumnDefinitions>
+                    <dxe:ImageEdit x:Name="_tooltipimage" Source="{Binding Path=Row.Picture ,Converter={StaticResource imageConvertAcount}}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="100" Grid.RowSpan="3" >
+                    </dxe:ImageEdit>
+                    <Label x:Name="label" Content="Tên Tài Khoản:" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="0" VerticalAlignment="Stretch" />
+                    <Label x:Name="label1" Content="Thư Điện Tử:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="1" VerticalAlignment="Stretch"/>
+                    <Label x:Name="label2" Content="Họ Tên:" Grid.Column="1" HorizontalAlignment="Stretch"  Grid.Row="2" VerticalAlignment="Stretch"/>
+                    <TextBlock Style="{StaticResource textBlockstyle}" Grid.Column="2"  FontSize="16" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="{Binding Row.Username}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Row.Email}" VerticalAlignment="Center"/>
+                    <TextBlock  Style="{StaticResource textBlockstyle}" Grid.Column="2" FontSize="16" HorizontalAlignment="Stretch" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Row.Name}" VerticalAlignment="Center"/>
+                </Grid>
+            </dx:MeasurePixelSnapper>
+        </DataTemplate>
+        <DataTemplate x:Key="rowWithToolTipTemplate">
+            <ContentPresenter Content="{Binding}" ContentTemplate="{Binding View.DefaultDataRowTemplate}">
+                <ToolTipService.IsEnabled>
+                    <Binding Path="DataContext.Tooltip"/>
+                </ToolTipService.IsEnabled>
+                <ToolTipService.InitialShowDelay>10</ToolTipService.InitialShowDelay>
+                <ToolTipService.ToolTip>
+                    <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplate}" Tag="Transparent" MaxWidth="600"/>
+                </ToolTipService.ToolTip>
+            </ContentPresenter>
+        </DataTemplate>
+    </UserControl.Resources>
+    <dxd:LayoutGroup Orientation="Horizontal">
+        <dxd:LayoutPanel AllowClose="False" Caption="Danh sách Tài khoản" ItemWidth="3*">
+            <dxg:GridControl x:Name="gridControl1" AutoGenerateColumns="AddNew" ItemsSource="{Binding DataAccount}" ShowBorder="False" SelectionMode="Row" MouseDown="gridControl1_MouseDown" SelectedItemChanged="gridControl1_SelectedItemChanged">
+                <dxg:GridControl.View>
+                    <dxg:TableView  ShowGroupPanel="False" >
+                        <dxg:TableView.RowStyle>
+                        <Style TargetType="dxg:RowControl">
+                            <Setter Property="ToolTipService.ToolTip">
+                                <Setter.Value>
+                                    <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplate}" />
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </dxg:TableView.RowStyle>
+                    </dxg:TableView>
+                </dxg:GridControl.View>
+            </dxg:GridControl>
+        </dxd:LayoutPanel>
+        <dxd:LayoutPanel AllowClose="False" Caption="Chi tiết" ScrollViewer.CanContentScroll="True" ItemWidth="1*">
+            <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto">
+                <Grid>
+                    
+                    <Label Style="{StaticResource styleLabel}" Content="Mã số:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,48,0,0"/>
+                    <TextBox  x:Name="txtAccountId" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="10,70,0,0" IsReadOnly="True" RenderTransformOrigin="0.478,0.522" IsEnabled="False"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Thời gian tạo:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,98,0,0"/>
+                    <TextBox  x:Name="txtAccountCreateTime" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="10,125,0,0" IsReadOnly="True" IsEnabled="False"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Tài khoản tạo:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,146,0,0" RenderTransformOrigin="0.863,-6.364"/>
+                    <TextBox x:Name="txtAccountCreatedBy" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Margin="10,173,0,0" IsReadOnly="True" IsEnabled="False"/>
+
+                    <dxe:ImageEdit x:Name="imageAccountPicture" HorizontalAlignment="Left" Margin="136,76,0,0" VerticalAlignment="Top" Width="120" Source="pack://application:,,,/WPFSuperMarket;component/Images/user-1-glyph-icon.png" Height="120" EditValueChanged="imageAccountPicture_EditValueChanged"/>
+
+                    <dxe:TextEdit  
+                        Style="{StaticResource ResourceKey=styleTextEdit}"
+                        x:Name="txtAccountUsername" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="158" Margin="98,210,0,0"
+                        TabIndex="0"/>
+
+                    <dxe:PasswordBoxEdit 
+                        x:Name="txtAccountHashedPassword" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="246" Margin="10,264,0,0" IsEnabled="False"
+                        TabIndex="1"/>
+
+                    <dxe:TextEdit 
+                        Style="{StaticResource styleTextEdit}"
+                        x:Name="txtAccountEmail" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="158" Margin="98,293,0,0"
+                        TabIndex="2"/>
+
+                    <dxe:TextEdit  Style="{StaticResource styleTextEdit}"
+                        x:Name="txtAccountName" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="158" Margin="98,321,0,0"
+                        TabIndex="3"/>
+
+                    <dxe:TextEdit  Style="{StaticResource styleTextEdit}"
+                        x:Name="txtAccountIdCard" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="158" Margin="98,350,0,0"
+                        TabIndex="4"/>
+
+                    <dxe:TextEdit  Style="{StaticResource styleTextEdit}"
+                        x:Name="txtAccountPhone" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="158" Margin="98,377,0,0"
+                        TabIndex="5" />
+
+                    <dxe:TextEdit  Style="{StaticResource styleTextEdit}"
+                        x:Name="txtAccountDetail" 
+                        VerticalContentAlignment="Top" HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="246" Margin="10,466,0,0" Height="80" 
+                        AcceptsReturn="True" AcceptsTab="False" TextWrapping="Wrap"
+                        TabIndex="6"/>
+
+                    <Label Style="{StaticResource styleLabel}" Content="Tài khoản:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0"/>
+                    <Label  Style="{StaticResource styleLabel}"  Content="Mật khẩu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,237,0,0"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Thư điện tử:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,293,0,0"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Họ tên:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,321,0,0"/>
+                    <Label Style="{StaticResource styleLabel}" Content="CMND:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,349,0,0"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Điện thoại:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,377,0,0"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Chi tiết" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,444,0,0"/>
+
+                    <Button 
+                        x:Name="btnAddAccount_Cancel" 
+                        Content="Hủy" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="52" Height="20" Margin="100,10,0,0" 
+                        Click="btnAddAccount_Cancel_Click"/>
+                    <Button 
+                        x:Name="btnAddAccount" 
+                        Content="Tạo mới" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="10,10,0,0" Width="85" Height="20" Padding="5,0,5,0"
+                        Click="btnAddAccount_Click" 
+                        dx:ThemeManager.ThemeName="None" Background="#00a65a"
+                        Foreground="White"/>
+                    <Button 
+                        x:Name="btnSaveChangeAccount" 
+                        Content="Lưu thay đổi" 
+                        HorizontalAlignment="Left"  VerticalAlignment="Top"
+                        Margin="157,10,0,0" Width="99" Height="20"
+                        Click="btnAccount_SaveChange_Click"
+                        dx:ThemeManager.ThemeName="None" Background="#3c8dbc"
+                        Foreground="White"/>
+                    <Button 
+                        x:Name="btnSaveChangeAccount_Cancel" 
+                        Content="Hủy thay đổi" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top" 
+                        Width="99" Margin="157,39,0,0" 
+                        Click="btnSaveChangeAccount_Cancel_Click"/>
+                    <Button 
+                        x:Name="btnChangePasswordAccount" 
+                        Content="Đổi mật khẩu" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="98,237,0,0" Width="95" 
+                        Click="btnChangePassword_Click"
+                        dx:ThemeManager.ThemeName="None" Background="#3c8dbc"
+                        Foreground="White" Height="22"/>
+                    <Button 
+                        x:Name="btnChangePasswordAccount_Cancel" 
+                        Content="Hủy" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="198,237,0,0" Width="58" 
+                        Click="btnChangePassword_Account_Cancel_Click" IsEnabled="True"/>
+                    <Button 
+                        x:Name="btnDeleteAccount" 
+                        Content="Xóa tài khoản" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="153,442,0,0" Width="103"
+                        Click="btnDeleteAccount_Click" 
+                        dx:ThemeManager.ThemeName="None" Background="#dd4b39"
+                        Foreground="White"/>
+                    <Button 
+                        x:Name="btnSetAdmin" 
+                        Content="Đặt làm Quản trị viên" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="10,552,0,0" Width="123"
+                        Click="btnSetAdmin_Click" 
+                        dx:ThemeManager.ThemeName="None" Background="#dd4b39"
+                        Foreground="White"/>
+                    <Button 
+                        x:Name="btnUnSetAdmin" 
+                        Content="Bỏ quyền Q. trị viên" 
+                        HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Margin="138,552,0,0" Width="118"
+                        Click="btnUnSetAdmin_Click" 
+                        dx:ThemeManager.ThemeName="None" Background="#dd4b39"
+                        Foreground="White" RenderTransformOrigin="1.447,0.55"/>
+                    <Label Style="{StaticResource styleLabel}" Content="Quyền Hạn :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,410,0,0"/>
+                    <dxe:ComboBoxEdit x:Name="_comboboxquyenhan" HorizontalAlignment="Left" Margin="98,410,0,0" VerticalAlignment="Top" Width="158" DisplayMember="" ValueMember="" AutoComplete="True">
+                        <dxe:ComboBoxEditItem Content="Quản Lý"/>
+                        <dxe:ComboBoxEditItem Content="Nhân Viên"/>
+                        <dxe:ComboBoxEditItem Content="Thủ Kho" />
+                    </dxe:ComboBoxEdit>
+                </Grid>
+            </ScrollViewer>
+        </dxd:LayoutPanel>
+    </dxd:LayoutGroup>
+
+</UserControl>

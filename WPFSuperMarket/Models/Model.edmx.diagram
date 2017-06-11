@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="935df6f383dd4e6ebfacffe30dbb944c" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="SuperMarketModel.Account" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="SuperMarketModel.Inventory" Width="1.5" PointX="3" PointY="8" />
+        <EntityTypeShape EntityType="SuperMarketModel.Order" Width="1.5" PointX="3" PointY="17.5" />
+        <EntityTypeShape EntityType="SuperMarketModel.OrderLine" Width="1.5" PointX="5.25" PointY="15.25" />
+        <EntityTypeShape EntityType="SuperMarketModel.Product" Width="1.5" PointX="5.25" PointY="10" />
+        <EntityTypeShape EntityType="SuperMarketModel.ProductType" Width="1.5" PointX="3" PointY="13.875" />
+        <EntityTypeShape EntityType="SuperMarketModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" />
+        <AssociationConnector Association="SuperMarketModel.FK_Account_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_Inventory_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_Order_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_OrderLine_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_Product_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_ProductType_Account" />
+        <AssociationConnector Association="SuperMarketModel.FK_Inventory_Product" />
+        <AssociationConnector Association="SuperMarketModel.FK_OrderLine_Order" />
+        <AssociationConnector Association="SuperMarketModel.FK_Product_ProductType" />
+        <AssociationConnector Association="SuperMarketModel.FK_ProductType_ProductType" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

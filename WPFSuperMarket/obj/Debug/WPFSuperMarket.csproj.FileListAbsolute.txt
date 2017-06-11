@@ -1,0 +1,962 @@
+F:\Tin\Ky22016-2017\BT-thuctaplaptrinhnangcao\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe.config
+F:\Tin\Ky22016-2017\BT-thuctaplaptrinhnangcao\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe
+F:\Tin\Ky22016-2017\BT-thuctaplaptrinhnangcao\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.pdb
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe.config
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.pdb
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Images.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\EPPlus.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Drawing.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v15.1.Core.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Drawing.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\App.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_Content.g.cs
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.cache
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.lref
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.baml
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.g.resources
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.Properties.Resources.resources
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csproj.GenerateResource.Cache
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe.licenses
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe
+C:\Users\Limited\Documents\Visual Studio 2015\Projects\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.pdb
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe.config
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.pdb
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.pdb
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Images.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\EPPlus.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Drawing.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v15.1.Core.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v15.1.Drawing.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.NavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Pdf.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Snap.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\App.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_Content.g.cs
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.cache
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.lref
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.baml
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.g.resources
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.Properties.Resources.resources
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csproj.GenerateResource.Cache
+C:\Users\Linh Phan\Desktop\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe.licenses
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe.config
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.exe
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\WPFSuperMarket.pdb
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.CodeParser.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Images.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v16.2.Drawing.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.Resources.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Data.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Docs.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.ExpressApp.Web.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Mvvm.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Office.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.NavBar.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.RichEdit.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpo.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\FontAwesome.WPF.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Snap.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Pdf.v16.2.Drawing.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Persistent.Base.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Web.ASPxTreeList.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraBars.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.Controls.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.ExpressApp.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.ExpressApp.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.ExpressApp.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.ExpressApp.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Snap.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Snap.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Snap.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Snap.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csprojResolveAssemblyReference.cache
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\App.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_Content.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.cache
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket_MarkupCompile.lref
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\MainWindow.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Account.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\InventoryActions.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Login.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\NewOrder.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Order.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\Product.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\Views\ProductType.baml
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.g.resources
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.Properties.Resources.resources
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.csproj.GenerateResource.Cache
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe.licenses
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.exe
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\WPFSuperMarket.pdb
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Apps\WPFSuperMarket\WPFSuperMarket\obj\Debug\App.baml

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SuperMarketModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SuperMarketEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="SuperMarketModel.Account" />
+    <EntitySet Name="Inventories" EntityType="SuperMarketModel.Inventory" />
+    <EntitySet Name="Orders" EntityType="SuperMarketModel.Order" />
+    <EntitySet Name="OrderLines" EntityType="SuperMarketModel.OrderLine" />
+    <EntitySet Name="Products" EntityType="SuperMarketModel.Product" />
+    <EntitySet Name="ProductTypes" EntityType="SuperMarketModel.ProductType" />
+    <EntitySet Name="sysdiagrams" EntityType="SuperMarketModel.sysdiagram" />
+    <AssociationSet Name="FK_Account_Account" Association="SuperMarketModel.FK_Account_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Account1" EntitySet="Accounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Inventory_Account" Association="SuperMarketModel.FK_Inventory_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Inventory" EntitySet="Inventories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Account" Association="SuperMarketModel.FK_Order_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderLine_Account" Association="SuperMarketModel.FK_OrderLine_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="OrderLine" EntitySet="OrderLines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Account" Association="SuperMarketModel.FK_Product_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductType_Account" Association="SuperMarketModel.FK_ProductType_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="ProductType" EntitySet="ProductTypes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Inventory_Product" Association="SuperMarketModel.FK_Inventory_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Inventory" EntitySet="Inventories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderLine_Order" Association="SuperMarketModel.FK_OrderLine_Order">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderLine" EntitySet="OrderLines" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ProductType" Association="SuperMarketModel.FK_Product_ProductType">
+      <End Role="ProductType" EntitySet="ProductTypes" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductType_ProductType" Association="SuperMarketModel.FK_ProductType_ProductType">
+      <End Role="ProductType" EntitySet="ProductTypes" />
+      <End Role="ProductType1" EntitySet="ProductTypes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="HashedPassword" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="IdCard" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Detail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Picture" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Admin" Type="Int32" />
+    <NavigationProperty Name="ChildrenAccount" Relationship="SuperMarketModel.FK_Account_Account" FromRole="Account" ToRole="Account1" />
+    <NavigationProperty Name="ParentAccount" Relationship="SuperMarketModel.FK_Account_Account" FromRole="Account1" ToRole="Account" />
+    <NavigationProperty Name="Inventories" Relationship="SuperMarketModel.FK_Inventory_Account" FromRole="Account" ToRole="Inventory" />
+    <NavigationProperty Name="Orders" Relationship="SuperMarketModel.FK_Order_Account" FromRole="Account" ToRole="Order" />
+    <NavigationProperty Name="OrderLines" Relationship="SuperMarketModel.FK_OrderLine_Account" FromRole="Account" ToRole="OrderLine" />
+    <NavigationProperty Name="Products" Relationship="SuperMarketModel.FK_Product_Account" FromRole="Account" ToRole="Product" />
+    <NavigationProperty Name="ProductTypes" Relationship="SuperMarketModel.FK_ProductType_Account" FromRole="Account" ToRole="ProductType" />
+  </EntityType>
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <Property Name="Detail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Type" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Account" Relationship="SuperMarketModel.FK_Inventory_Account" FromRole="Inventory" ToRole="Account" />
+    <NavigationProperty Name="Product" Relationship="SuperMarketModel.FK_Inventory_Product" FromRole="Inventory" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <Property Name="GuessName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="GuessAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GuessPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GuessEmail" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="TotalPrice" Type="Int64" Nullable="false" />
+    <Property Name="Discount" Type="Int64" Nullable="false" />
+    <Property Name="VATPrice" Type="Int64" Nullable="false" />
+    <Property Name="PaidPrice" Type="Int64" Nullable="false" />
+    <Property Name="Detail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Account" Relationship="SuperMarketModel.FK_Order_Account" FromRole="Order" ToRole="Account" />
+    <NavigationProperty Name="OrderLines" Relationship="SuperMarketModel.FK_OrderLine_Order" FromRole="Order" ToRole="OrderLine" />
+  </EntityType>
+  <EntityType Name="OrderLine">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderId" Type="Int32" Nullable="false" />
+    <Property Name="BarCode" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="UnitPrice" Type="Int64" Nullable="false" />
+    <Property Name="TotalPrice" Type="Int64" Nullable="false" />
+    <Property Name="DiscountPrice" Type="Int64" Nullable="false" />
+    <Property Name="VATPrice" Type="Int64" Nullable="false" />
+    <Property Name="PaidPrice" Type="Int64" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Account" Relationship="SuperMarketModel.FK_OrderLine_Account" FromRole="OrderLine" ToRole="Account" />
+    <NavigationProperty Name="Order" Relationship="SuperMarketModel.FK_OrderLine_Order" FromRole="OrderLine" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BarCode" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="TypeId" Type="Int32" />
+    <Property Name="Price" Type="Int64" Nullable="false" />
+    <Property Name="Picture" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Detail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="ExpiredTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Account" Relationship="SuperMarketModel.FK_Product_Account" FromRole="Product" ToRole="Account" />
+    <NavigationProperty Name="Inventories" Relationship="SuperMarketModel.FK_Inventory_Product" FromRole="Product" ToRole="Inventory" />
+    <NavigationProperty Name="ProductType" Relationship="SuperMarketModel.FK_Product_ProductType" FromRole="Product" ToRole="ProductType" />
+  </EntityType>
+  <EntityType Name="ProductType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AccountId" Type="Int32" Nullable="false" />
+    <Property Name="ParentId" Type="Int32" />
+    <Property Name="Detail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Account" Relationship="SuperMarketModel.FK_ProductType_Account" FromRole="ProductType" ToRole="Account" />
+    <NavigationProperty Name="Products" Relationship="SuperMarketModel.FK_Product_ProductType" FromRole="ProductType" ToRole="Product" />
+    <NavigationProperty Name="ChildrenProductTypes" Relationship="SuperMarketModel.FK_ProductType_ProductType" FromRole="ProductType" ToRole="ProductType1" />
+    <NavigationProperty Name="ParentProductType" Relationship="SuperMarketModel.FK_ProductType_ProductType" FromRole="ProductType1" ToRole="ProductType" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Account_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="0..1" />
+    <End Type="SuperMarketModel.Account" Role="Account1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Account1">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Inventory_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="SuperMarketModel.Inventory" Role="Inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Inventory">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="SuperMarketModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderLine_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="SuperMarketModel.OrderLine" Role="OrderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderLine">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="SuperMarketModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductType_Account">
+    <End Type="SuperMarketModel.Account" Role="Account" Multiplicity="1" />
+    <End Type="SuperMarketModel.ProductType" Role="ProductType" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductType">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Inventory_Product">
+    <End Type="SuperMarketModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="SuperMarketModel.Inventory" Role="Inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Inventory">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderLine_Order">
+    <End Type="SuperMarketModel.Order" Role="Order" Multiplicity="1" />
+    <End Type="SuperMarketModel.OrderLine" Role="OrderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderLine">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ProductType">
+    <End Type="SuperMarketModel.ProductType" Role="ProductType" Multiplicity="0..1" />
+    <End Type="SuperMarketModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="TypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductType_ProductType">
+    <End Type="SuperMarketModel.ProductType" Role="ProductType" Multiplicity="0..1" />
+    <End Type="SuperMarketModel.ProductType" Role="ProductType1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductType1">
+        <PropertyRef Name="ParentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

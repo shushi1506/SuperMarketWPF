@@ -1,0 +1,90 @@
+﻿<Window x:Class="WPFSuperMarket.Views.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:WPFSuperMarket.Views"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        mc:Ignorable="d"
+        Title="Login" 
+        Height="236" Width="474"
+        WindowStartupLocation="CenterScreen"
+        MouseDown="Window_MouseDown"
+        ResizeMode="NoResize" 
+        WindowStyle="None"
+        SizeToContent="WidthAndHeight" 
+        Loaded="Window_Loaded" Icon="pack://application:,,,/WPFSuperMarket;component/shopping-cart%20(2).ico">
+
+    <Grid Height="190" Width="370">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="/WPFSuperMarket;component/Images/Background/bi1.png" Stretch="Fill" Grid.ColumnSpan="3" />
+
+        <Label 
+            Content="Quản Lý Siêu Thị"
+            Height="28" 
+            HorizontalAlignment="Right" VerticalAlignment="Top"
+            
+            Name="label4" 
+            Foreground="Yellow"
+            FontFamily="FontAwesome" 
+            FontSize="15" Margin="8,6,22,0" FontWeight="Bold" Grid.Column="1" Width="117" />
+
+
+        <fa:ImageAwesome 
+            Icon="Lock" 
+            VerticalAlignment="Center" HorizontalAlignment="Center" 
+            Margin="10,39,279,40" Height="92" Width="70" Foreground="#FFAA2656" Grid.Column="1"/>
+
+        <Label 
+            Content="Tên Tài khoản" 
+            Margin="99,59,0,0" 
+            Height="30" Width="80"
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            Foreground="#FFE4DB26" Grid.Column="1" FontWeight="Bold" />
+
+        <TextBox 
+            Margin="191,0,0,101" 
+            Name="txtBxuserName" 
+            Height="30" Width="157" 
+            VerticalContentAlignment="Center" 
+            VerticalAlignment="Bottom" HorizontalAlignment="Left" 
+            FontFamily="FontAwesome" 
+            Background="#00000000" 
+            OpacityMask="White" 
+            BorderBrush="White" 
+            Foreground="White" 
+            TextChanged="txtBxuserName_TextChanged" Grid.Column="1" />
+
+        <Label 
+            Content="Mật khẩu" 
+            Margin="99,95,0,0" 
+            Height="29" Width="80" 
+            VerticalAlignment="Top" HorizontalAlignment="Left"  
+            Foreground="#FFD3CA17" Grid.Column="1" FontWeight="Bold" />
+
+        <PasswordBox Margin="191,0,0,66" Name="passBxPassword" VerticalContentAlignment="Center" HorizontalAlignment="Left" Width="157" FontFamily="FontAwesome" BorderBrush="White" Background="#00000000" PasswordChar="*" OverridesDefaultStyle="False" SelectionBrush="#FFFFB14A" Height="30" VerticalAlignment="Bottom" Foreground="White" PasswordChanged="passBxPassword_PasswordChanged" Grid.Column="1" />
+
+        <Button 
+            Content="Đăng nhập" 
+            Margin="190,140,0,0" 
+            Name="btnLogin" Click="btnLogin_Click" 
+            Height="29" Width="89" 
+            VerticalAlignment="Top" HorizontalAlignment="Left"  
+            Cursor="Hand" FontFamily="FontAwesome" 
+            BorderBrush="White" 
+            Grid.Column="1" FontWeight="Bold" IsDefault="True"
+            dx:ThemeManager.ThemeName="None" Background="#FF00A65A" Foreground="White"/>
+        <Button x:Name="button" Grid.ColumnSpan="2" Content="Thoát" HorizontalAlignment="Left" Margin="286,140,0,0" VerticalAlignment="Top" Width="62" Height="29" Click="button_Click" FontFamily="FontAwesome"/>
+        <Label x:Name="txtWarning" 
+            Content="Mật khẩu không đúng." 
+            Margin="16,146,0,0" 
+            Height="30" Width="144"
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            Foreground="#FF570404" Grid.Column="1" FontStyle="Italic" />
+    </Grid>
+</Window>
